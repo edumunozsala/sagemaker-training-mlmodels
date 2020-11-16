@@ -1,6 +1,7 @@
 # Steps to Start Training custom models in Amazon SageMaker
 ## Different algorithm in Tensorflow and Pytorch trained in SageMaker using SageMaker containers or custom containers
 In this repository we will develop many notebooks and scripts to train models in several scenarios with Tensorflow or Pytorch framework. Many of them will be explained in my Medium o personal fastaipages blog.
+- Training a custom Tensorflow 2 model using a Tensorflow Estimator. [Blog post](https://edumunozsala.github.io/BlogEms/nlp/sagemaker/tensorflow%202/2020/11/15/transformer_nmt_training_and_serving.html)
 
 
 **On development**
